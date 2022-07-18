@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/kelvinwongg/react-css-spinner/issues"
   },
-  "homepage": "https://github.com/kelvinwongg/react-css-spinner#readme"
+  "homepage": "https://github.com/kelvinwongg/react-css-spinner#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
 }
